@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import YoutubeForm from './components/YoutubeForm';
+import SignUp from './SignUp';
 
 function App() {
   return (
     <div className="App">
-      <YoutubeForm/>
+      <SignUp/>
     </div>
   );
 }
